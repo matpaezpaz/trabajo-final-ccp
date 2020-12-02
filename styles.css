@@ -14,3 +14,11 @@
 .recetas > .titulo {
     text-align: center;
 }
+
+.receta > .titulo > .nombre-receta {
+    font-size: 20px;
+}
+.receta > .titulo > .autor {
+    margin-left: 10px;
+    color: lightslategray;
+}
